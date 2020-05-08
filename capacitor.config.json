@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "cs-demo-offline-storage-react",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
